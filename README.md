@@ -20,4 +20,5 @@ I like to work as a full time Android Developer 💻 📱 and have managing skil
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sangeeth-amithanathan/)
 [![Gmail](https://img.shields.io/badge/Gmail-white.svg?style=for-the-badge&logo=gmail)](zansangeeth17@gmail.com)
 
+### Gradle Progress 
 > “An app is not all about technology It is a dream towards future”
