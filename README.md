@@ -17,6 +17,6 @@ I like to work as a full time Android Developer 💻 📱 and have managing skil
 ### Reach me via
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sangeeth-amithanathan/)
-[![Gmail](https://img.shields.io/badge/Gmail-white.svg?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?tab=rm&ogbl)
+[![Gmail](https://img.shields.io/badge/Gmail-white.svg?style=for-the-badge&logo=gmail)](zansangeeth17@gmail.com)
 
 > “An app is not all about technology It is a dream towards future”
