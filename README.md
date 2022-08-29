@@ -1,4 +1,4 @@
-## Hi I'am Sangeeth Amirthanathan👋
+## <p align="center"> Hi I'am Sangeeth Amirthanathan👋 </p>
 
 I like to work as a full time Android Developer 💻 📱 and have managing skills in App development from paper idea into reality. My Android Development journey has started since 2019 and in this total experience I've contributed as a open source contributor on GitHub.
 
