@@ -2,9 +2,17 @@
 
 I like to work as a full time Android Developer 💻 📱 and have managing skills in App development from paper idea into reality. My Android Development journey has started since 2019 and in this total experience I've contributed as a open source contributor on GitHub.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zansangeeth&theme=aura_dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zansangeeth&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/><br/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zansangeeth&layout=compact)](https://github.com/zansangeeth)
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zansangeeth&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zansangeeth&theme=aura_dark)
+
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zansangeeth&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zansangeeth&theme=aura_dark&utcOffset=8)
 
 ### What I'm Focusing On 💪
 
