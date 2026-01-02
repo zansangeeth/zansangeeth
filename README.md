@@ -14,7 +14,7 @@
 - ⚡ Ktor, Spring...
 - ⚡ Working with GIS technologies...
 
-### Reach me via
+### Connect with me via
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sangeeth-amithanathan/)
 [![Medium](https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=medium)](sangeeth-amirthanathan.medium.com)
