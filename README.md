@@ -8,11 +8,11 @@
 
 ### What I'm Focusing On 💪
 
-- ⚡ Android MVVM with Latest Jetpack Compose...
+- ⚡ Passionate Android developer with Latest Jetpack Compose
 - ⚡ Compose Multiplatform
-- ⚡ Kotlin ...
-- ⚡ Ktor, Spring...
-- ⚡ Working with GIS technologies...
+- ⚡ Love Kotlin
+- ⚡ Backend using Ktor, Spring
+- ⚡ Working with GIS technologies
 
 ### Connect with me via
 
