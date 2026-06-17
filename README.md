@@ -9,7 +9,7 @@
 ### What I'm Focusing On 💪
 
 - ⚡ Passionate Android developer with Latest Jetpack Compose
-- ⚡ Compose Multiplatform
+- ⚡ KMP for cross platform
 - ⚡ Love Kotlin
 - ⚡ Backend using Ktor, Spring
 - ⚡ Working with GIS technologies
