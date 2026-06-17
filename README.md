@@ -12,7 +12,7 @@
 - ⚡ KMP for cross platform
 - ⚡ Love Kotlin
 - ⚡ Backend using Ktor, Spring
-- ⚡ Working with GIS technologies
+- ⚡ Working with GIS(Geographic Information System)
 
 ### Connect with me via
 
