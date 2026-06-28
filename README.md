@@ -2,7 +2,7 @@
 <h3 align="center">A Programmer from Sri Lanka 🇱🇰 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,mongodb,ts,androidstudio,idea,gradle,spring,ktor,vite,git,github,postgres,sqlite,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,ts,androidstudio,idea,gradle,spring,ktor,vite,git,github,postgres,sqlite,mysql,mongodb&theme=light" />
 </p>
 
 
